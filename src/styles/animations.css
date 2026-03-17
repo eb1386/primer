@@ -1,0 +1,14 @@
+@keyframes progress-fill {
+  from { width: 0; }
+}
+
+/* scroll progress */
+.scroll-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background-color: var(--accent);
+  z-index: 100;
+  transition: width 150ms ease-out;
+}
