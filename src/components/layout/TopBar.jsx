@@ -32,7 +32,7 @@ export default function TopBar({ currentLesson, level, onLevelChange, onLessonSe
           className="font-display text-sm bg-transparent border-none cursor-pointer"
           style={{ color: 'var(--text-primary)' }}
         >
-          FromZero
+          Primer
         </button>
 
         <span className="text-xs font-display font-medium" style={{ color: 'var(--text-primary)' }}>
@@ -126,7 +126,7 @@ export default function TopBar({ currentLesson, level, onLevelChange, onLessonSe
         className="font-display text-lg tracking-normal bg-transparent border-none cursor-pointer flex-shrink-0"
         style={{ color: 'var(--text-primary)' }}
       >
-        FromZero
+        Primer
       </button>
 
       <h2 className="font-display text-lg font-medium hidden md:block" style={{ color: 'var(--text-primary)' }}>

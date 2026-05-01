@@ -1,8 +1,8 @@
 const KEYS = {
-  level: 'fromzero_level',
-  currentLesson: 'fromzero_current_lesson',
-  progress: 'fromzero_progress',
-  quizAnswers: 'fromzero_quiz_answers',
+  level: 'primer_level',
+  currentLesson: 'primer_current_lesson',
+  progress: 'primer_progress',
+  quizAnswers: 'primer_quiz_answers',
 };
 
 function read(key, fallback = null) {

@@ -24,7 +24,7 @@ export default function Landing() {
         transition={{ duration: 0.5, delay: 0.1 }}
       >
         <span className="font-display text-base sm:text-lg tracking-normal" style={{ color: 'var(--text-primary)' }}>
-          FromZero
+          Primer
         </span>
       </motion.div>
 
